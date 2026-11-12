@@ -1,5 +1,7 @@
 # Claude’s Constitution
 
+Our vision for Claude's character
+
 > Source: https://www.anthropic.com/constitution
 > Retrieved: 2026-11-12. Publisher: Anthropic PBC.
 > Licence: Creative Commons CC0 1.0 Deed (stated in the preface below).
