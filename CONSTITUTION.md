@@ -7,6 +7,7 @@ Our vision for Claude's character
 > Licence: Creative Commons CC0 1.0 Deed (stated in the preface below).
 > This file is a copy of the page text converted to Markdown. Wording is unchanged.
 > The page states that the preface and the acknowledgements are not part of the official constitution.
+> This copy is kept by the owner of this repository, who is not Anthropic and does not speak for Anthropic.
 
 ## Preface (from the page; not part of the official constitution)
 
